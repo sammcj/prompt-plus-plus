@@ -1,0 +1,4 @@
+gradio
+httpx>=0.24.1
+tenacity
+pydantic>=2.10.6
